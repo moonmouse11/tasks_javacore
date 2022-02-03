@@ -31,6 +31,11 @@ public class Main {
 //        TwentyOne.nextNumbers();
 //        TwentyTwo.somethingWithNumbers();
 //        TwentyThree.anotherThingWithPow();
-        TwentyFour.rectanglePerimeterAndSquare();
+//        TwentyFour.rectanglePerimeterAndSquare();
+//        TwentyFive.problemOf3D();
+//        TwentySix.letMeKnowYourAge();
+//        TwentySeven.weightProblem();
+//        TwentyEight.marineProblem();
+
     }
 }
