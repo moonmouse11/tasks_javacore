@@ -36,6 +36,14 @@ public class Main {
 //        TwentySix.letMeKnowYourAge();
 //        TwentySeven.weightProblem();
 //        TwentyEight.marineProblem();
+//        TwentyNine.timeProblem();
+//        Thirty.fromMorningToMidnight();
+//        ThirtyOne.kineticPower();
+//        ThirtyTwo.alteredNumber();
+//        ThirtyThree.trapezoidSquare();
+//        ThirtyFour.hello();
+//        ThirtyFive.yourName();
+        ThirtySix.goAway();
 
     }
 }
