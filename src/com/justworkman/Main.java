@@ -43,7 +43,11 @@ public class Main {
 //        ThirtyThree.trapezoidSquare();
 //        ThirtyFour.hello();
 //        ThirtyFive.yourName();
-        ThirtySix.goAway();
+//        ThirtySix.goAway();
+//        ThirtySeven.pupilProblem();
+//        ThirtyEight.documentationProblem();
+        ThirtyNine.forDocuments();
+
 
     }
 }
