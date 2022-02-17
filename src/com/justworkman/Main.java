@@ -1,6 +1,10 @@
 package com.justworkman;
 
 import com.justworkman.one.*;
+import com.justworkman.three.Four;
+import com.justworkman.three.One;
+import com.justworkman.three.Three;
+import com.justworkman.three.Two;
 import com.justworkman.two.*;
 
 public class Main {
@@ -46,8 +50,12 @@ public class Main {
 //        ThirtySix.goAway();
 //        ThirtySeven.pupilProblem();
 //        ThirtyEight.documentationProblem();
-        ThirtyNine.forDocuments();
-
+//        ThirtyNine.forDocuments();
+//Three
+//        One.fahrenheitProblem();
+//        Two.lengthProblem();
+//        Three.lengthProblem();
+        Four.converterProblem();
 
     }
 }
