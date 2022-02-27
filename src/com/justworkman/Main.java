@@ -1,8 +1,14 @@
 package com.justworkman;
 
 import com.justworkman.one.*;
+import com.justworkman.three.Eight;
+import com.justworkman.three.Five;
 import com.justworkman.three.Four;
+import com.justworkman.three.Nine;
 import com.justworkman.three.One;
+import com.justworkman.three.Seven;
+import com.justworkman.three.Six;
+import com.justworkman.three.Ten;
 import com.justworkman.three.Three;
 import com.justworkman.three.Two;
 import com.justworkman.two.*;
@@ -55,7 +61,14 @@ public class Main {
 //        One.fahrenheitProblem();
 //        Two.lengthProblem();
 //        Three.lengthProblem();
-        Four.converterProblem();
+//        Four.converterProblem();
+//        Five.triangleMethod();
+//        Six.numbersToRise();
+//        Seven.numbersToLow();
+//        Eight.triangleProblem();
+//        Nine.tickets();
+//        Ten.vanyaMoney();
+//Four
 
     }
 }
