@@ -3,23 +3,23 @@ package com.justworkman.four;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class One {
+public class Six {
 
     static Scanner scanner = new Scanner(System.in);
 
-    public static void numberWithSpace() {
+    public static void numberWithPlus() {
         try {
-            System.out.println("Give me number");
+            System.out.println("Give me your number");
             int number = scanner.nextInt();
-            if (number < 100 && number > 9) {
+            if (number > 99 && number < 1000) {
                 StringBuilder stringBuilder = new StringBuilder(String.valueOf(number));
-                stringBuilder.insert(1, " ");
-                System.out.println("Answer: " + stringBuilder);
+                stringBuilder.insert(2,"0 + ").insert(1,"00 + ");
+                System.out.println("Answer : " + stringBuilder);
             } else {
                 throw new InputMismatchException();
             }
         } catch (InputMismatchException exception) {
-            System.out.println("Wrong input data.");
+            System.out.println("Wrong input number");
         }
     }
 }
