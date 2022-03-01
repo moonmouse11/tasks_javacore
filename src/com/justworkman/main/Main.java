@@ -7,6 +7,7 @@ public class Main {
 //        TwoMain.start();
 //        ThreeMain.start();
 //        FourMain.start();
-        SixMain.start();
+//        SixMain.start();
+        SevenMain.start();
     }
 }
