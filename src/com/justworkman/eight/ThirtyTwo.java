@@ -3,7 +3,7 @@ package com.justworkman.eight;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class TwentyFive {
+public class ThirtyTwo {
 
     static Scanner scanner = new Scanner(System.in);
 

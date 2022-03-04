@@ -19,6 +19,14 @@ public class EightMain {
 //        TwentyOne.raiseNumber();
 //        TwentyTwo.upToDownTo();
 //        TwentyThree.raiseOrNot();
-        TwentyFour.switchNumber();
+//        TwentyFour.switchNumber();
+//        TwentyFive.evenProblem();
+//        TwentySix.palindromeNumber();
+//        TwentySeven.biggerNumerals();
+//        TwentyEight.fractionProblem();
+//        TwentyNine.equalsFraction();
+//        Thirty.wholeDivider();
+//        ThirtyOne.evenProblem();
+        ThirtyTwo.evenProblem();
     }
 }
