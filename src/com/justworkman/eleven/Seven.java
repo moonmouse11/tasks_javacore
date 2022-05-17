@@ -4,8 +4,7 @@ import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Six {
-
+public class Seven {
     private static final Scanner scanner = new Scanner(System.in);
     private static final Random random = new Random();
 
@@ -32,9 +31,12 @@ public class Six {
     }
 
     private static int[] random(int[] array, int first, int second) {
+        int min = Math.min(first, second);
+        int max = Math.max(first, second);
         for (int i = 0; i < array.length; i++) {
-            array[i] = random.nextInt(second - first) + first;
+            array[i] = random.nextInt(max - min) + min;
         }
         return array;
     }
 }
+
