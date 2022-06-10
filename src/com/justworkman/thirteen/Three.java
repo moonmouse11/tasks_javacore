@@ -2,7 +2,8 @@ package com.justworkman.thirteen;
 
 import java.util.Random;
 
-public class Two {
+public class Three {
+
     private static final Random random = new Random();
 
     public static void twentyRandom(){
@@ -24,7 +25,7 @@ public class Two {
     private static int sumAllNumbers(int[] array) {
         int sum = 0;
         for(int number : array) {
-            sum += number;
+            if(number % 2 ==0) sum += number;
         }
         return sum;
     }
