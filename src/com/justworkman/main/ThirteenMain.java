@@ -21,6 +21,18 @@ public class ThirteenMain {
 //        Sixteen.mathProgression();
 //        Seventeen.fibonacciNumbers();
 //        Eighteen.bankProblem();
-        Nineteen.stableNumber();
+//        Nineteen.stableNumber();
+//        Twenty.decimalProblem();
+//        TwentyOne.anotherDecimalProblem();
+//        TwentyTwo.armstrongNumber();
+//        TwentyThree.anotherProblem();
+//        TwentyFour.randomArray();
+//        TwentyFive.randomProblem();
+//        TwentySix.nextRandomProblem();
+//        TwentySeven.rowProblem();
+//        TwentyEight.rowProblem();
+//        TwentyNine.studentsProblem();
+//        Thirty.factoryProblem();
+        ThirtyOne.schoolProblem();
     }
 }
