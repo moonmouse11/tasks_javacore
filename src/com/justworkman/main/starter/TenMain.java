@@ -1,4 +1,4 @@
-package com.justworkman.main;
+package com.justworkman.main.starter;
 
 import com.justworkman.ten.*;
 

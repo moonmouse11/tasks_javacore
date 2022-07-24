@@ -1,4 +1,4 @@
-package com.justworkman.main;
+package com.justworkman.main.starter;
 
 import com.justworkman.thirteen.*;
 
@@ -33,6 +33,6 @@ public class ThirteenMain {
 //        TwentyEight.rowProblem();
 //        TwentyNine.studentsProblem();
 //        Thirty.factoryProblem();
-        ThirtyOne.schoolProblem();
+//        ThirtyOne.schoolProblem();
     }
 }
