@@ -13,6 +13,11 @@ public class FifteenMain {
 //        Ten.decrementX();
 //        Eleven.sumOfNumeric();
 //        Twelve.arraySum();
-        Thirteen.arrayRow();
+//        Thirteen.arrayRow();
+//        Fourteen.numberProblem();
+//        Fifteen.evenNumberProblem();
+//        Sixteen.nonEvenNumberProblem();
+//        Seventeen.numericIntoNumber();
+        Eighteen.decrementNumber();
     }
 }
