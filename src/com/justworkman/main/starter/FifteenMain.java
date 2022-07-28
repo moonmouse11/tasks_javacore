@@ -18,6 +18,12 @@ public class FifteenMain {
 //        Fifteen.evenNumberProblem();
 //        Sixteen.nonEvenNumberProblem();
 //        Seventeen.numericIntoNumber();
-        Eighteen.decrementNumber();
+//        Eighteen.decrementNumber();
+//        Nineteen.inputPositiveNumber();
+//        Twenty.inputSumOfNumeric();
+//        TwentyOne.inputSumOfSum();
+//        TwentyTwo.inputPositiveNumberIndex();
+//        TwentyThree.evenAndNotEvenLines();
+        TwentyFour.evenAndNotEvenLinesAtRightPlace();
     }
 }

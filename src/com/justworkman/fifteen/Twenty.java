@@ -3,11 +3,12 @@ package com.justworkman.fifteen;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Nineteen {
+public class Twenty {
+
     private static final Scanner SCANNER = new Scanner(System.in);
 
-    public static void inputPositiveNumber() {
-        for (int i = 1; i <= 15; i++) {
+    public static void inputSumOfNumeric() {
+        for (; ; ) {
             try {
                 System.out.println("Give me a number.");
                 String inputNumber = SCANNER.nextLine();
@@ -15,8 +16,8 @@ public class Nineteen {
                 if(number <= 0) throw new InputMismatchException();
                 int sum = sumNumeric(number);
                 System.out.println("Sum: " + sum);
+                if(sum == 5) break;
             } catch (NumberFormatException | InputMismatchException exception) {
-                i--;
                 System.out.println("Not a valid number. Try again.");
             }
         }
