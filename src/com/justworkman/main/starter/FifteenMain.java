@@ -24,6 +24,23 @@ public class FifteenMain {
 //        TwentyOne.inputSumOfSum();
 //        TwentyTwo.inputPositiveNumberIndex();
 //        TwentyThree.evenAndNotEvenLines();
-        TwentyFour.evenAndNotEvenLinesAtRightPlace();
+//        TwentyFour.evenAndNotEvenLinesAtRightPlace();
+//        TwentyFive.firstNumeric();
+//        TwentySix.containsNumeric();
+//        TwentySeven.numericInNumberIndex();
+//        TwentyEight.lengthInNumber();
+//        TwentyNine.sumOfNumeric();
+//        Thirty.zeroInNumber();
+//        ThirtyOne.fiveCountEven();
+//        ThirtyTwo.fiveCountEvenInNotEvenIndex();
+//        ThirtyThree.powRow();
+//        ThirtyFour.sumOfPow();
+//        ThirtyFive.reverseNumber();
+//        ThirtySix.numberIsPow();
+//        ThirtySeven.minSumNumber();
+//        ThirtyEight.bigSumDivider();
+//        ThirtyNine.minDivider();
+//        Forty.maxDivider();
+        FortyOne.decrementNumber();
     }
 }
